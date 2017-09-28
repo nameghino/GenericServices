@@ -1,0 +1,16 @@
+PODS:
+  - GenericServices (0.1.0)
+
+DEPENDENCIES:
+  - GenericServices (from `../`)
+
+EXTERNAL SOURCES:
+  GenericServices:
+    :path: ../
+
+SPEC CHECKSUMS:
+  GenericServices: 3cf4a7d3edc67ebf908be5c9e57724015aeb3e61
+
+PODFILE CHECKSUM: 828baad66d2c34a75c6ca97fadeb9b8b5f08e16a
+
+COCOAPODS: 1.2.1
