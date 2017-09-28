@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'GenericServices_Example' do
+  pod 'GenericServices', :path => '../'
+
+  target 'GenericServices_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
